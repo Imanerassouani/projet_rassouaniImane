@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title Imane Rassouani Intra</title>
+    <title>Intra</title>
 </head>
 <body>
-<% out.print("Hello World Imane"); %>
+<% out.print("Bonjour Helmi"); %>
 </body>
 </html>
